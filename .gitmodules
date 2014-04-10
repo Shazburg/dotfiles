@@ -1,0 +1,6 @@
+[submodule "submodules/gitfiles2"]
+	path = submodules/gitfiles2
+	url = git@github.com:Shazburg/gitfiles2.git
+[submodule "submodules/vimfiles2"]
+	path = submodules/vimfiles2
+	url = git@github.com:Shazburg/vimfiles2.git
